@@ -90,7 +90,7 @@
         }
     </style>
         <h3>Our current fleet is only the Boeing 727.
-            more plane are expected to come to our fleet
+            more plane are expected to come to our fleet.
         Note : Doing Project Flight (Roblox) flights
         </h3>
     </body>
