@@ -51,7 +51,7 @@
 
 </body>
 <head>
-  <title>AAVA</title>
+  <title>Flying AIR ALGERIE Virtual</title>
   <style>
     /* Air Algérie red gradient background */
     body {
