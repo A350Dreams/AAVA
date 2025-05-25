@@ -45,7 +45,7 @@
 </head>
 <body>
 
-  <a href="https://discord.gg/3PEv6gWn" target="_blank" class="discord-button">
+  <a href="https://discord.gg/ZmpVNbRecK" target="_blank" class="discord-button">
     Join Us!
   </a>
 
