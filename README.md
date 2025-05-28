@@ -1,158 +1,96 @@
-<!DOCTYPE HTML>
-<html>
-    <style>
-        body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-        }
-        </style>
-        <head>
-            <h1>Welcome To Air Algérie Virtual | الخطوط الجوية الجزائرية</h1>
-            <h2>The official VIRTUAL AIRLINE in ALGERIA.</h2>
-        <style>
-            body {
-                background-image: url(algerie-air);
-                background-size: cover;
-                background-repeat: no-repeat;
-                background-position: center;
-
-
-            }
-</style>
-
-        </head>
-        <head>
-  <title>AAVA</title>
-  <style>
-    .discord-button {
-      background-color: #5865F2; /* Discord blue */
-      color: white;
-      padding: 12px 24px;
-      font-size: 16px;
-      font-weight: bold;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-      text-decoration: none;
-      font-family: Arial, sans-serif;
-      display: inline-block;
-      transition: background-color 0.3s ease;
-    }
-
-    .discord-button:hover {
-      background-color: #4752C4;
-    }
-  </style>
-</head>
-<body>
-
-  <a href="https://discord.gg/ZmpVNbRecK" target="_blank" class="discord-button">
-    Join Us!
-  </a>
-
-</body>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>Flying AIR ALGERIE Virtual</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Air Algérie Virtual</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <style>
-    /* Air Algérie red gradient background */
     body {
       margin: 0;
-      padding: 0;
-      height: 100vh;
-      background: linear-gradient(135deg, #ffffff, #5b5b5b); /* shades of Air Algérie red */
-      font-family: Arial, sans-serif;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
     }
-
-    .discord-button {
-      background-color: #ffffff;
-      color: #000000; /* Air Algérie red */
-      padding: 14px 14px;
-      font-size: 18px;
-      font-weight: bold;
-      border: 2px solid #ffffff;
-      border-radius: 8px;
-      cursor: pointer;
-      text-decoration: none;
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
-
-    .discord-button:hover {
-      background-color: #C8102E;
+    header {
+      background: url('https://upload.wikimedia.org/wikipedia/commons/9/9a/Air_Algerie_Airbus_A330-202%2C_Paris_-_Charles_de_Gaulle_%28Roissy%29_%28CDG%29%2C_France_PP1469305244.jpg') no-repeat center center/cover;
+      height: 80vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       color: white;
-      border-color: white;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+      text-align: center;
     }
-  </style>
-</head>
-<body>
-    <body>
-    <style>
-        body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        }
-    </style>
-        <h3>Our current fleet is only the Boeing 727.
-            more plane are expected to come to our fleet.
-        Note : Doing Project Flight (Roblox) flights
-        </h3>
-    </body>
-    <head>
-  <title>Ma chaîne YouTube</title>
-  <style>
-    .youtube-button {
-      background-color: #ffffff; /* Rouge YouTube */
-      color: rgb(0, 0, 0);
+    header h1 {
+      font-size: 3rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin: 10px 0 20px;
+    }
+    .btn {
+      background-color: #d80000;
+      color: white;
       padding: 12px 24px;
-      font-size: 18px;
-      font-weight: bold;
-      border:#f61a1a;
-      border-radius: 6px;
-      cursor: pointer;
       text-decoration: none;
-      font-family: Arial, sans-serif;
-      transition: background-color 0.3s ease;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background 0.3s ease;
     }
-
-    .youtube-button:hover {
-      background-color: #ffffff;
+    .btn:hover {
+      background-color: #a60000;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    section h2 {
+      color: #d80000;
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      padding: 20px;
+      text-align: center;
     }
   </style>
 </head>
 <body>
+  <header>
+    <h1>Air Algérie Virtual</h1>
+    <p>Join the first Algerian virtual airline!</p>
+    <a href="https://discord.gg/a6gJ6txKTb" class="btn">Join Our Discord</a>
+  </header>
 
-  <a href="https://www.youtube.com/@AAVAVirtualAirline" target="_blank" class="youtube-button">
-    Our YouTube Channel
-  </a>
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We are a passionate flight simulation community based on the experience of Air Algérie. Our goal is to bring together Algerian and international virtual pilots to enjoy an immersive and engaging environment.</p>
+  </section>
 
+  <section id="recruitment">
+    <h2>Recruitment</h2>
+    <p>We are looking for pilots, and staff to help manage our operations. Join us and be part of the adventure!</p>
+  </section>
+
+  <section id="discord">
+    <h2>Our Discord Server</h2>
+    <iframe src="https://discord.com/widget?id=123456789012345678&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <p>Use the button above to join our official Discord server.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Useful Links</h2>
+    <ul>
+      <li><a href="https://a350dreams.github.io/AAVA/">GitHub Website</a></li>
+      <li><a href="ryanyagouni@gmail.com">Contact us via email</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Air Algérie Virtual. All rights reserved.</p>
+  </footer>
 </body>
-
-
-</body>
-<head>
-  <title>Notre Instagram</title>
-  <style>
-    .instagram-button {
-      background-color: #ffffff; /* Rose Instagram */
-      color: rgb(0, 0, 0);
-      border: #000000;
-      padding: 12px 24px;
-      font-size: 18px;
-      font-weight: bold;
-      border-radius: 6px;
-      cursor: pointer;
-      text-decoration: none;
-      font-family: Arial, sans-serif;
-      transition: background-color 0.3s ease;
-    }
-
-    .instagram-button:hover {
-      background-color: #ffffff;
-    }
-  </style>
-</head>
-<body>
-
-  <a href="https://www.instagram.com/aava_virtual.airline?igsh=cGJvZnZucjMxeHE4&utm_source=qr" target="_blank" class="instagram-button">
-    Our Instagram
-  </a>
-
-</body>
-</html>
+</html> 
