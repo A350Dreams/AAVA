@@ -73,6 +73,8 @@
     <h2>Useful Links</h2>
     <ul>
       <li><a href="ryanyagouni@gmail.com">Contact us</a></li>
+      <li><a href="https://www.instagram.com/aava_virtual.airline?igsh=cGJvZnZucjMxeHE4&utm_source=qr">Our Instagram</a></li>
+      <li><a href="www.youtube.com/@AAVAVirtualAirline">Our Youtube Channel</a></li>
     </ul>
   </section>
 
