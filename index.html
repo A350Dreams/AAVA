@@ -42,11 +42,6 @@
     .btn:hover {
       background-color: #a60000;
     }
-    section {
-      padding: 40px 20px;
-      max-width: 900px;
-      margin: auto;
-    }
     section h2 {
       color: #d80000;
     }
