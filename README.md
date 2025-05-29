@@ -75,8 +75,14 @@
       <li><a href="ryanyagouni@gmail.com">Contact us</a></li>
       <li><a href="https://www.instagram.com/aava_virtual.airline?igsh=cGJvZnZucjMxeHE4&utm_source=qr">Our Instagram</a></li>
       <li><a href="www.youtube.com/@AAVAVirtualAirline">Our Youtube Channel</a></li>
+  <section id="discord" style="text-align: center; padding: 40px 20px 10px;">
     </ul>
   </section>
+  <section id="discord" style="text-align: center; padding: 40px 20px 10px;">
+  <h2 style="margin-bottom: 10px;">Join Our Discord Server</h2>
+  <p style="margin-bottom: 20px;">Connect with our virtual airline community.</p>
+  <a href="https://discord.gg/a6gJ6txKTb" class="btn-discord" target="_blank">Join Our Discord</a>
+</section>
 
   <footer>
     <p>&copy; 2025 Air Algérie Virtual. All rights reserved.</p>
