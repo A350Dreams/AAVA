@@ -51,6 +51,16 @@
       padding: 20px;
       text-align: center;
     }
+    .hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px 40px;
+  border-radius: 10px;
+  text-align: center; /* <== This is the key part for text centering */
+}
   </style>
 </head>
 <body>
@@ -58,6 +68,9 @@
     <h1>Air Algérie Virtual</h1>
     <p>Join the first Algerian virtual airline!</p>
     <a href="https://discord.gg/a6gJ6txKTb" class="btn">Join Our Discord</a>
+    <a href="https://www.youtube.com/@AAVAVirtualAirline" class="btn">Watch Our Videos</a>
+    <a href="https://www.instagram.com/aava_virtual.airline?igsh=cGJvZnZucjMxeHE4&utm_source=qr" class="btn">Follow Us on Instagram</a>
+    <a href="https://a350dreams.github.io/rules/" class="btn">Discord Server's rules</a>
   </header>
 
   <section id="about">
