@@ -13,7 +13,7 @@
       color: #333;
     }
     header {
-      background: url('https://media.discordapp.net/attachments/1377572968766636084/1379173811907198976/3179572498_6349094071_1748886942452.png?ex=683f4734&is=683df5b4&hm=bc101ee93d7f982bd5df9ba8a7f549791b12c30a76710865b6b3d8ddca42044d&=&format=webp&quality=lossless&width=960&height=542') no-repeat center center/cover;
+      background: url('https://cdn.discordapp.com/attachments/1377572968766636084/1379214880355123210/522511_1733852406.jpg?ex=683f6d74&is=683e1bf4&hm=900f60fc6a34408d8367f75bce4865a16b70741fd014de735b00a526632f91f8&') no-repeat center center/cover;
       height: 80vh;
       display: flex;
       flex-direction: column;
